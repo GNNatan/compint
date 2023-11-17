@@ -6,7 +6,7 @@ This lab was solved in cooperation with [Guido Pio Natalizio](https://github.com
 
 ## Notes
 - The strategy defined in the `optimal` function doesn't implement the mathematical solution of Nim, so it's possible for the ES to find a way to beat it, this, in my opinion, leads to more interesting results than having the ES run against an unbeatable model. 
-- The `mutate` function implements mutation in using an uniform distribution rather than a normal one, even if this is different from what we observe in nature it shouldn't be an issue.
+- The `mutate` function implements mutation using an uniform distribution rather than a normal one, even if this is different from what we observe in nature it shouldn't be an issue.
 ## Peer Reviews on Lab 2
 ### Done
 _None yet_
