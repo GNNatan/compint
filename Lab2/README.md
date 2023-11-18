@@ -9,6 +9,6 @@ This lab was solved in cooperation with [Guido Pio Natalizio](https://github.com
 - The `mutate` function implements mutation using an uniform distribution rather than a normal one, even if this is different from what we observe in nature it shouldn't be an issue.
 ## Peer Reviews on Lab 2
 ### Done
-_None yet_
+[Giovanni Violo](https://github.com/giovanni-violo/Computational_intelligence_317617/issues/1)
 ### Received
 _None yet, if you're reading this, feel free to write one_ 😇
