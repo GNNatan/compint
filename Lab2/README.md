@@ -12,4 +12,9 @@ This lab was solved in cooperation with [Guido Pio Natalizio](https://github.com
 [Giovanni Violo](https://github.com/giovanni-violo/Computational_intelligence_317617/issues/1)<br>
 [Simone Borella](https://github.com/SimoneBorella/computational-intelligence/issues/1)
 ### Received
-_None yet, if you're reading this, feel free to write one_ 😇
+[Simone Borella](https://github.com/GNNatan/compint/issues/2)
+
+
+<hr>
+
+_If you're reading this, feel free to write a peer review_ 😇
