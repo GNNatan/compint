@@ -5,9 +5,10 @@ The code, along with a detailed commentary is present in the `lab9.ipynb` notebo
 This lab was solved in cooperation with [Guido Pio Natalizio](https://github.com/Guido-Pio-Natalizio/computational-intelligence).
 
 
-## Peer Reviews on Lab 2
+## Peer Reviews on Lab 3
 ### Done
-None yet
+[Davide Vitabile](https://github.com/Vitabile/Computational-Intelligence/issues/4)<br>
+[Federica Lupoli](https://github.com/Federica000/Computational-Intelligence/issues/5)
 
 ### Received
-None yet
+[Alberto Foresti](https://github.com/GNNatan/compint/issues/3)
