@@ -5,7 +5,7 @@ The code, along with a detailed commentary is present in the `lab10.ipynb` noteb
 This lab was solved in cooperation with [Guido Pio Natalizio](https://github.com/Guido-Pio-Natalizio/computational-intelligence).
 
 
-## Peer Reviews on Lab 3
+## Peer Reviews on Lab 4
 ### Done
 _None yet_
 
