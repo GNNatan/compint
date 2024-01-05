@@ -7,7 +7,7 @@ This lab was solved in cooperation with [Guido Pio Natalizio](https://github.com
 
 ## Peer Reviews on Lab 4
 ### Done
-_None yet_
-
+[Marco Colangelo](https://github.com/marcocolangelo/Computational-Intelligence/issues/2)<br>
+[Lorenzo Tozzi](https://github.com/anubis09/Computational-Intelligence/issues/4)
 ### Received
-_None yet_
+[Andrea Galella](https://github.com/GNNatan/compint/issues/4)
